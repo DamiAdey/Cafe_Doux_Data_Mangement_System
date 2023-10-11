@@ -1,0 +1,850 @@
+ 
+  ----jGRASP exec: java CaféDouxProgram
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 1
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ Beverages List:
+ **************
+ 
+ French Vanille (Hot or Cold)
+ Machiato au Caramel (Hot or Cold)
+ Café mocha (Hot only)
+ Iced Café (Cold only)
+ Le Pumpkin Spice (Hot only)
+ Americano (Hot or Cold)
+ Cold Brew (Cold only)
+ Frappuccino (Hot and Cold)
+ Café mocha (Hot or Cold)
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 2
+ 
+ 
+ *********
+  Snacks:
+ *********
+ 
+ (1) List of Snacks  
+ (2) Remove a Snack 
+ (3) Add a Snack  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ 
+ Snacks List:
+ ***********
+ 
+ Ham & Cheese Sandwich	
+ Crepes	
+ Fish & Chips	
+ Fish Wrap	
+ Cheese Flatbread	
+ Glazed Donut	
+ Jam-filled donut	
+ Patties (meat pie)	
+ Cupcakes	
+ Apple Pie	
+ Strawberry Pie	
+ Crepes	
+ 
+ 
+ *********
+  Snacks:
+ *********
+ 
+ (1) List of Snacks  
+ (2) Remove a Snack 
+ (3) Add a Snack  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 2
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ David E.	
+ Total number of Beverage orders: 3	
+ Total number of Snack orders: 6	
+ 
+ 
+ Clarisse P.	
+ Total number of Beverage orders: 4	
+ Total number of Snack orders: 6	
+ 
+ 
+ Lincon R.	
+ Total number of Beverage orders: 8	
+ Total number of Snack orders: 15	
+ 
+ 
+ Felix L. 	
+ Total number of Beverage orders: 18	
+ Total number of Snack orders: 1	
+ 
+ 
+ Lia K.	
+ Total number of Beverage orders: 12	
+ Total number of Snack orders: 4	
+ 
+ 
+ France M. 	
+ Total number of Beverage orders: 29	
+ Total number of Snack orders: 22	
+ 
+ 
+ Apple J.	
+ Total number of Beverage orders: 13	
+ Total number of Snack orders: 13	
+ 
+ 
+ Frank P.	
+ Total number of Beverage orders: 12	
+ Total number of Snack orders: 6	
+ 
+ 
+ Nessa O.	
+ Total number of Beverage orders: 11	
+ Total number of Snack orders: 10	
+ 
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 3
+ 
+ 
+ ****************
+  Staff Sub Menu:
+ ****************
+ 
+ (1) Staff List  
+ (2) Add new staff  
+ (3) Remove staff 
+ (4) Calculate Weekly & Monthly wage 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ 
+ ***************
+  Staff List:
+ ***************
+ 
+ 
+ Name                    ID Number       Position                Hours of Work      Annual Salary  
+ --------------------------------------------------------------------------------------------------
+ 
+ Susan Meyers             201501         Store Manager               56                $13080.45       
+ John Gai                 201601         Assistant Store Manager     56                $10900.06       
+ Mary McMath              201810         Head Barista                56                $5750.98        
+ Bob Smith                201903         Cashier                     28                $3267.52        
+ Sylvia Benjamin          201906         Assistant Barista           35                $3578.63        
+ Mark Jones               201906         Cleaner                     21                $2893.01        
+ Nessa Wong               202001         Assistant Barista           35                $3578.63        
+ Kim Lee                  202109         Security Guard              42                $2893.01        
+ Joy Rogers               202201         Security Guard              42                $2893.01        
+ 
+ 
+ ****************
+  Staff Sub Menu:
+ ****************
+ 
+ (1) Staff List  
+ (2) Add new staff  
+ (3) Remove staff 
+ (4) Calculate Weekly & Monthly wage 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 4
+ 
+ 
+ *********************
+  Inventory Sub Menu:
+ *********************
+ 
+ (1) Inventory List 
+ (2) Remove from inventory 
+ (3) Add to inventory 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 1
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ Beverages List:
+ **************
+ 
+ French Vanille (Hot or Cold)
+ Machiato au Caramel (Hot or Cold)
+ Café mocha (Hot only)
+ Iced Café (Cold only)
+ Le Pumpkin Spice (Hot only)
+ Americano (Hot or Cold)
+ Cold Brew (Cold only)
+ Frappuccino (Hot and Cold)
+ Café mocha (Hot or Cold)
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 2
+ Please enter the line number (location): 2
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 3
+ Enter New Flavour Name ==> Strawberry Milkshake (Cold only)
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 0
+ 
+ Thank you. Any changes made have been saved.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CaféDouxProgram
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 1
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ Beverages List:
+ **************
+ 
+ French Vanille (Hot or Cold)
+ Machiato au Caramel (Hot or Cold)
+ Iced Café (Cold only)
+ Le Pumpkin Spice (Hot only)
+ Americano (Hot or Cold)
+ Cold Brew (Cold only)
+ Frappuccino (Hot and Cold)
+ Café mocha (Hot or Cold)
+ Strawberry Milkshake (Cold only)
+ 
+ 
+ ************
+  Beverages:
+ ************
+ 
+ (1) List of Beverages  
+ (2) Remove a Beverage 
+ (3) Add a Beverage  
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ 
+ Beverages & Snacks Sub Menu:
+ 		************
+ 
+ (1) Beverages 
+ (2) Snacks 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 2
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 3
+ Enter New Customer Name ==> Bob C.
+ Enter Number of drinks ordered ==> 5
+ Enter Numebr of snacks ordered ==> 17
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 0
+ 
+ Thank you. Any changes made have been saved.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CaféDouxProgram
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 2
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 1
+ 
+ David E.	
+ Total number of Beverage orders: 3	
+ Total number of Snack orders: 6	
+ 
+ 
+ Clarisse P.	
+ Total number of Beverage orders: 4	
+ Total number of Snack orders: 6	
+ 
+ 
+ Lincon R.	
+ Total number of Beverage orders: 8	
+ Total number of Snack orders: 15	
+ 
+ 
+ Felix L. 	
+ Total number of Beverage orders: 18	
+ Total number of Snack orders: 1	
+ 
+ 
+ Lia K.	
+ Total number of Beverage orders: 12	
+ Total number of Snack orders: 4	
+ 
+ 
+ France M. 	
+ Total number of Beverage orders: 29	
+ Total number of Snack orders: 22	
+ 
+ 
+ Apple J.	
+ Total number of Beverage orders: 13	
+ Total number of Snack orders: 13	
+ 
+ 
+ Frank P.	
+ Total number of Beverage orders: 12	
+ Total number of Snack orders: 6	
+ 
+ 
+ Nessa O.	
+ Total number of Beverage orders: 11	
+ Total number of Snack orders: 10	
+ 
+ 
+ Bob C.	
+ Total number of Beverage orders: 5	
+ Total number of Snack orders: 17	
+ 
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 2
+ 
+ ** And for every 8 drinks a customer buys, their next 2 drinks  are free. **
+ *** For every 5 snacks a customer buys, they get a 40% discount on 2 snacks. ***
+ 
+ David E.	
+ This customer is eligible for 0 free drinks.
+ This customer has a 40% discount on: 2 snacks.
+ 
+ Clarisse P.	
+ This customer is eligible for 0 free drinks.
+ This customer has a 40% discount on: 2 snacks.
+ 
+ Lincon R.	
+ This customer is eligible for 2 free drinks.
+ This customer has a 40% discount on: 6 snacks.
+ 
+ Felix L. 	
+ This customer is eligible for 4 free drinks.
+ This customer has a 40% discount on: 0 snacks.
+ 
+ Lia K.	
+ This customer is eligible for 2 free drinks.
+ This customer has a 40% discount on: 0 snacks.
+ 
+ France M. 	
+ This customer is eligible for 6 free drinks.
+ This customer has a 40% discount on: 8 snacks.
+ 
+ Apple J.	
+ This customer is eligible for 2 free drinks.
+ This customer has a 40% discount on: 4 snacks.
+ 
+ Frank P.	
+ This customer is eligible for 2 free drinks.
+ This customer has a 40% discount on: 2 snacks.
+ 
+ Nessa O.	
+ This customer is eligible for 2 free drinks.
+ This customer has a 40% discount on: 4 snacks.
+ 
+ Bob C.	
+ This customer is eligible for 0 free drinks.
+ This customer has a 40% discount on: 6 snacks.
+ 
+ 
+  Customers Sub Menu:
+ **********************
+ 
+ (1) List of Regular Customers 
+ (2) Customer Discounts 
+ (3) Add a Regular Customer 
+ (4) Remove a Regular Customer 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 0
+ 
+ Thank you. Any changes made have been saved.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CaféDouxProgram
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 3
+ 
+ 
+ ****************
+  Staff Sub Menu:
+ ****************
+ 
+ (1) Staff List  
+ (2) Add new staff  
+ (3) Remove staff 
+ (4) Calculate Weekly & Monthly wage 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 4
+ *Hours of work per week.
+ 
+ What is this staff's hourly rate? $34
+ How many hours has this staff worked this week? 56
+ 
+ 
+ The weekly wage for this staff is is $1904.00 .
+ The monthly wage for this staff is $22848.00 .
+ 
+ 
+ 
+ ****************
+  Staff Sub Menu:
+ ****************
+ 
+ (1) Staff List  
+ (2) Add new staff  
+ (3) Remove staff 
+ (4) Calculate Weekly & Monthly wage 
+ (0) Go Back
+ 
+ Please enter your choice's number ==> 0
+ 
+ --------------------------------------------
+ 		WELCOME TO CAFÉ DOUX'S ADMIN MENU
+ --------------------------------------------
+ 
+    Your dainty coffee shop down the block. 
+   Helping to fuel the community since 1978.
+ 
+ 
+ ************
+  Main Menu:
+ ************
+ 
+ (1) Beverages & Snacks 
+ (2) Regular Customers 
+ (3) Staff 
+ (4) Inventory 
+ (0) Exit Program
+ 
+ Please enter your selection ==> 0
+ 
+ Thank you. Any changes made have been saved.
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,55 @@
+9
+Susan Meyers
+201501
+Store Manager
+56
+13080.45
+
+John Gai
+201601
+Assistant Store Manager
+56
+10900.06
+
+Mary McMath
+201810
+Head Barista
+56
+5750.98
+
+Bob Smith
+201903
+Cashier
+28
+3267.52
+
+Sylvia Benjamin
+201906
+Assistant Barista
+35
+3578.63
+
+Mark Jones
+201906
+Cleaner
+21
+2893.01
+
+Nessa Wong
+202001
+Assistant Barista
+35
+3578.63
+
+Kim Lee
+202109
+Security Guard
+42
+2893.01
+
+Joy Rogers
+202201
+Security Guard
+42
+2893.01
+

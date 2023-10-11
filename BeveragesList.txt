@@ -1,0 +1,10 @@
+9
+French Vanille (Hot or Cold)
+Machiato au Caramel (Hot or Cold)
+Iced Café (Cold only)
+Le Pumpkin Spice (Hot only)
+Americano (Hot or Cold)
+Cold Brew (Cold only)
+Frappuccino (Hot and Cold)
+Café mocha (Hot or Cold)
+Strawberry Milkshake (Cold only)
